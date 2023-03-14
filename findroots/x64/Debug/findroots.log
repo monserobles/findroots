@@ -1,0 +1,11 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(503,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  findroots.cpp
+C:\Users\Monse\source\repos\findroots\findroots.cpp(42,17): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Monse\source\repos\findroots\findroots.cpp(118,15): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Monse\source\repos\findroots\findroots.cpp(121,13): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Monse\source\repos\findroots\findroots.cpp(124,13): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Monse\source\repos\findroots\findroots.cpp(127,13): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Monse\source\repos\findroots\findroots.cpp(143,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Monse\source\repos\findroots\findroots.cpp(144,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Monse\source\repos\findroots\findroots.cpp(165,12): warning C4244: 'return': conversion from 'float' to 'char', possible loss of data
+  findroots.vcxproj -> C:\Users\Monse\source\repos\findroots\findroots.exe
